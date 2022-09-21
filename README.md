@@ -1,3 +1,5 @@
+Putin huilo
+
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Frontend developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
