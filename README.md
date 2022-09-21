@@ -1,4 +1,4 @@
-Putin huilo
+putin HUILO
 
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Frontend developer</code><br>
