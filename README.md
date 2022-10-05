@@ -1,7 +1,3 @@
-⚪🔵⚪
-
-putin HUILO
-
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Frontend developer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
@@ -11,4 +7,3 @@ putin HUILO
 <code>🧑‍💻 Languages: JavaScript, TS</code>
 <code>📦 Tech stack: MERN</code>
 <code>💬 telegram: [@onivim](https://telegram.me/onivim)</code>
-<code>📫 [email](mailto:slavakuz88@gmail.com)</code>
